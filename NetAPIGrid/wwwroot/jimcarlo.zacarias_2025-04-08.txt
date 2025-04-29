@@ -1,0 +1,10 @@
+2025-04-08 07:56:07|||Active Window|||Inbox - jimcarlo.zacarias@cardinalhealth.com - Outlook|||jimcarlo.zacarias
+2025-04-08 07:56:07|||Active Window|||C:\Users\jimcarlo.zacarias\source\repos\GRID LVL 7\GRID LVL 7\bin\Debug\net6.0\GRID LVL 7.exe|||jimcarlo.zacarias
+2025-04-08 07:56:08|||Active Window|||Inbox - jimcarlo.zacarias@cardinalhealth.com - Outlook|||jimcarlo.zacarias
+2025-04-08 07:56:09|||Active Window|||C:\Users\jimcarlo.zacarias\source\repos\GRID LVL 7\GRID LVL 7\bin\Debug\net6.0\GRID LVL 7.exe|||jimcarlo.zacarias
+2025-04-08 07:56:10|||Active Window|||Inbox - jimcarlo.zacarias@cardinalhealth.com - Outlook|||jimcarlo.zacarias
+2025-04-08 07:56:11|||Active Window|||C:\Users\jimcarlo.zacarias\source\repos\GRID LVL 7\GRID LVL 7\bin\Debug\net6.0\GRID LVL 7.exe|||jimcarlo.zacarias
+2025-04-08 07:56:27|||Idle|||Idle|||jimcarlo.zacarias
+2025-04-08 07:56:32|||Idle|||Idle|||jimcarlo.zacarias
+2025-04-08 07:56:35|||Active Window|||Inbox - jimcarlo.zacarias@cardinalhealth.com - Outlook|||jimcarlo.zacarias
+2025-04-08 07:56:36|||Active Window|||C:\Users\jimcarlo.zacarias\source\repos\GRID LVL 7\GRID LVL 7\bin\Debug\net6.0\GRID LVL 7.exe|||jimcarlo.zacarias

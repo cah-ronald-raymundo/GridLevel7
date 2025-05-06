@@ -1,4 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using NetAPIGrid.Models;
+using YamlDotNet.Core.Tokens;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -9,10 +12,29 @@ namespace NetAPIGrid.Controllers
     public class RenewalsController : ControllerBase
     {
 
-        [HttpGet]
-        public IEnumerable<string> GetData()
+        private readonly RenewalsDBContext _db;
+
+        public RenewalsController(RenewalsDBContext db)
         {
-            return new string[] { "value1", "value2" };
+            _db = db;
+
+        }
+
+
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<VwUser>>> Users()
+        {
+            try
+            {
+                var result = await _db.VwUsers.ToListAsync();
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+
+              return BadRequest(ex.Message);
+            }
+    
         }
 
     }

@@ -8,11 +8,18 @@ using Hangfire;
 using static NetAPIGrid.jobs.TestJob;
 using NetAPIGrid.jobs;
 using Hangfire.SqlServer;
+using NetAPIGrid.Models;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+builder.Services.AddDbContext<RenewalsDBContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("RPA_RENEWALS")));
+
 
 
 builder.Services.AddSwaggerGen(options =>

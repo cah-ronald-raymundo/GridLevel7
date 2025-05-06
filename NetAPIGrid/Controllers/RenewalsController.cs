@@ -4,10 +4,16 @@
 
 namespace NetAPIGrid.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class RenewalsController : ControllerBase
     {
-       
+
+        [HttpGet]
+        public IEnumerable<string> GetData()
+        {
+            return new string[] { "value1", "value2" };
+        }
+
     }
 }

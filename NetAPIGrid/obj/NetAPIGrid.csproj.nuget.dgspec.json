@@ -61,6 +61,14 @@
               "target": "Package",
               "version": "[6.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
             "Microsoft.SharePoint.Client.Online.CSOM": {
               "target": "Package",
               "version": "[15.0.4919.1000, )"

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3ZWLDS7VZ2jp/C9PNt73EMsdMEpmcszAPRMX/BqreKg=",
+  "Hash": "iJv33KlmMrj5TAGPEfKmxDLpuXdvPz6KwJFuZgbevRo=",
   "Source": "NetAPIGrid",
   "BasePath": "_content/NetAPIGrid",
   "Mode": "Default",
@@ -74,12 +74,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\decrypted\\aes 2.txt",
+      "Identity": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\encrypted\\ronald.raymundo_2025-06-20.txt",
       "SourceId": "NetAPIGrid",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\",
       "BasePath": "_content/NetAPIGrid",
-      "RelativePath": "decrypted/aes 2.txt",
+      "RelativePath": "encrypted/ronald.raymundo_2025-06-20.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,26 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\decrypted\\aes 2.txt"
-    },
-    {
-      "Identity": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\encrypted\\aes 2.txt",
-      "SourceId": "NetAPIGrid",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\",
-      "BasePath": "_content/NetAPIGrid",
-      "RelativePath": "encrypted/aes 2.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\encrypted\\aes 2.txt"
+      "OriginalItemSpec": "wwwroot\\encrypted\\ronald.raymundo_2025-06-20.txt"
     },
     {
       "Identity": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\favicon.ico",
@@ -131,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\jimcarlo.zacarias_2025-04-08.txt",
+      "Identity": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\jimcarlo.zacarias_2025-05-07 1.txt",
       "SourceId": "NetAPIGrid",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\",
       "BasePath": "_content/NetAPIGrid",
-      "RelativePath": "jimcarlo.zacarias_2025-04-08.txt",
+      "RelativePath": "jimcarlo.zacarias_2025-05-07 1.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +128,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\jimcarlo.zacarias_2025-04-08.txt"
+      "OriginalItemSpec": "wwwroot\\jimcarlo.zacarias_2025-05-07 1.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\jimcarlo.zacarias_2025-05-07 2.txt",
+      "SourceId": "NetAPIGrid",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\",
+      "BasePath": "_content/NetAPIGrid",
+      "RelativePath": "jimcarlo.zacarias_2025-05-07 2.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jimcarlo.zacarias_2025-05-07 2.txt"
     },
     {
       "Identity": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\js\\site.js",
@@ -1250,25 +1250,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\ronald.raymundo_2025-04-08.txt",
-      "SourceId": "NetAPIGrid",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\",
-      "BasePath": "_content/NetAPIGrid",
-      "RelativePath": "ronald.raymundo_2025-04-08.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ronald.raymundo_2025-04-08.txt"
     }
   ]
 }

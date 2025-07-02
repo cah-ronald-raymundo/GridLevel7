@@ -2,12 +2,10 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using NetAPIGrid.Service;
 using System.Text;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.OpenApi.Models;
 using Hangfire;
-using static NetAPIGrid.jobs.TestJob;
-using NetAPIGrid.jobs;
-using Hangfire.SqlServer;
+using NetAPIGrid.Context;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -68,7 +66,9 @@ builder.Services.AddScoped<JwtService>();
 builder.Services.AddScoped<AES>();
 builder.Services.AddScoped<MyJobService>();
 
-var connectionString = builder.Configuration.GetConnectionString("GRID_LVL_SEVEN");
+//builder.Services.AddDbContext<GRID_LVL_SEVEN_DBContext>(options => options.UseSqlServer(
+//        builder.Configuration.GetConnectionString("GRID_LVL_SEVEN_PROD")
+//    ));
 
 //builder.Services.AddHangfire(config =>
 //{
@@ -84,17 +84,20 @@ var connectionString = builder.Configuration.GetConnectionString("GRID_LVL_SEVEN
 //builder.Services.AddHangfireServer();
 builder.Services.AddHttpClient<MyJobService>();
 
-builder.Services.AddHangfire(config => config.SetDataCompatibilityLevel(CompatibilityLevel.Version_170)
-.UseSimpleAssemblyNameTypeSerializer()
-.UseRecommendedSerializerSettings()
-.UseSqlServerStorage(connectionString, new SqlServerStorageOptions
-{
-    CommandBatchMaxTimeout = TimeSpan.FromMinutes(5),
-    SlidingInvisibilityTimeout = TimeSpan.FromMinutes(5),
-    QueuePollInterval = TimeSpan.Zero,
-    UseRecommendedIsolationLevel = true,
-    DisableGlobalLocks = true
-}));
+//builder.Services.AddHangfire(config => config.SetDataCompatibilityLevel(CompatibilityLevel.Version_170)
+//.UseSimpleAssemblyNameTypeSerializer()
+//.UseRecommendedSerializerSettings()
+//.UseSqlServerStorage(connectionString, new SqlServerStorageOptions
+//{
+//    CommandBatchMaxTimeout = TimeSpan.FromMinutes(5),
+//    SlidingInvisibilityTimeout = TimeSpan.FromMinutes(5),
+//    QueuePollInterval = TimeSpan.Zero,
+//    UseRecommendedIsolationLevel = true,
+//    DisableGlobalLocks = true
+//}));
+
+builder.Services.AddHangfire(config =>
+config.UseSqlServerStorage(builder.Configuration.GetConnectionString("GRID_LVL_SEVEN_STAGE")));
 builder.Services.AddHangfireServer();
 
 var app = builder.Build();
@@ -125,7 +128,9 @@ app.UseHangfireDashboard();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-
-//RecurringJob.AddOrUpdate<ApiCallService>("call-api-endpoint", service => service.CallApiEndpointAsync(), Cron.Minutely()); // Adjust the schedule as needed
-RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job", service => service.RunInsertLogsEndPoint(), Cron.Minutely());
+app.MapHangfireDashboard();
+//RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job", service => service.RunInsertLogsEndPoint(), "0 * * * *");
+//RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job", service => service.RunInsertLogsEndPoint(), "*/30 * * * *");
+RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job", service => service.RunInsertLogsEndPoint(), Cron.MinuteInterval(2));
+//RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job2", service => service.DeleteFiles(), Cron.Weekly(DayOfWeek.Sunday,1));
 app.Run();

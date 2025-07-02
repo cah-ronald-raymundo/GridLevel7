@@ -5,24 +5,28 @@
       "PackagePath": "staticwebassets\\NetAPIGrid.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\completed\\jimcarlo.zacarias_2025-05-07 1.txt",
+      "PackagePath": "staticwebassets\\completed\\jimcarlo.zacarias_2025-05-07 1.txt"
+    },
+    {
+      "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\completed\\jimcarlo.zacarias_2025-05-07 2.txt",
+      "PackagePath": "staticwebassets\\completed\\jimcarlo.zacarias_2025-05-07 2.txt"
+    },
+    {
       "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\decrypted\\aes 2.txt",
-      "PackagePath": "staticwebassets\\decrypted\\aes 2.txt"
-    },
-    {
-      "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\encrypted\\aes 2.txt",
-      "PackagePath": "staticwebassets\\encrypted\\aes 2.txt"
     },
     {
       "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\jimcarlo.zacarias_2025-04-08.txt",
-      "PackagePath": "staticwebassets\\jimcarlo.zacarias_2025-04-08.txt"
+      "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\jimcarlo.zacarias_2025-05-07 1.txt",
+      "PackagePath": "staticwebassets\\jimcarlo.zacarias_2025-05-07 1.txt"
+    },
+    {
+      "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\jimcarlo.zacarias_2025-05-07 2.txt",
+      "PackagePath": "staticwebassets\\jimcarlo.zacarias_2025-05-07 2.txt"
     },
     {
       "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\js\\site.js",
@@ -255,10 +259,6 @@
     {
       "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\wwwroot\\ronald.raymundo_2025-04-08.txt",
-      "PackagePath": "staticwebassets\\ronald.raymundo_2025-04-08.txt"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NetAPIGrid.Microsoft.AspNetCore.StaticWebAssets.props",

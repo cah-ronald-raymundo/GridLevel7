@@ -30,7 +30,7 @@ namespace NetAPIGrid.Service
                 var issuer = _configuration["JwtConfig:Issued"];
                 var audience = _configuration["JwtConfig:Audience"];
                 var key = _configuration["JwtConfig:Key"];
-                var tokenExpiryTimeStamp = DateTime.UtcNow.AddYears(100);
+                var tokenExpiryTimeStamp = DateTime.UtcNow.AddDays(1);
 
                 var tokenDescriptor = new SecurityTokenDescriptor
                 {

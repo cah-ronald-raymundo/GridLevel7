@@ -1,5 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Hangfire;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
+using Microsoft.SharePoint.ApplicationPages;
+using Microsoft.SharePoint.Client;
+using System;
+using System.IO;
+using System.Text;
 
 namespace NetAPIGrid.Service
 {
@@ -7,29 +13,35 @@ namespace NetAPIGrid.Service
     {
         private readonly HttpClient _httpClient;
         private IWebHostEnvironment _hostingEnvironment;
-        public MyJobService(HttpClient httpClient, IWebHostEnvironment hostingEnvironment)
+        private readonly AES _aes;
+        public MyJobService(HttpClient httpClient, IWebHostEnvironment hostingEnvironment, AES aes)
         {
             _httpClient = httpClient;
             _hostingEnvironment = hostingEnvironment;
+            _aes = aes;
         }
         public async Task<IActionResult> RunInsertLogsEndPoint()
         {
-            //Console.WriteLine("Insert Logs Successfully");
             string line;
+            string dayName = DateTime.Now.ToString("dddd");
+
+            await DecryptFile();
 
             try
             {
-                await using (SqlConnection con = new SqlConnection(@"Data Source=WSEC5009GRDSQ01;Initial Catalog=GRID_LVL_SEVEN;Trusted_Connection=True;Encrypt=False"))
+                await using (SqlConnection con = new SqlConnection(@"Data Source=10.51.35.174;Initial Catalog=GRID_LVL_SEVEN;User Id=SA-RPA.POWERAPPS;Password=sa.rpa.Powerapps;TrustServerCertificate=True;"))
                 {
                     con.Open();
 
-                    var uploadPath = Path.Combine(_hostingEnvironment.WebRootPath, "uploads/");
-                    var completedPath = Path.Combine(_hostingEnvironment.WebRootPath, "uploads/completed/");
+                    var ePath = Path.Combine(_hostingEnvironment.WebRootPath, "encrypted/");
+                    var dPath = Path.Combine(_hostingEnvironment.WebRootPath, "decrypted/");
+                    var cPath = Path.Combine(_hostingEnvironment.WebRootPath, "completed/");
 
-                    var txtFiles = Directory.EnumerateFiles(uploadPath, "*.txt");
-                    
+                    var txtFiles = Directory.EnumerateFiles(dPath, "*.txt");
+
                     if (txtFiles.Count() > 0)
                     {
+                        //Console.WriteLine("Testing");
                         foreach (string currentFile in txtFiles)
                         {
                             using (StreamReader file = new StreamReader(currentFile))
@@ -46,16 +58,38 @@ namespace NetAPIGrid.Service
                                     cmd.ExecuteNonQuery();
                                 }
                             }
+                           
                         }
 
-                        if (Directory.Exists(uploadPath))
+                        if (Directory.Exists(ePath))
                         {
-                            foreach (var file in new DirectoryInfo(uploadPath).GetFiles())
+                            foreach (var file in new DirectoryInfo(ePath).GetFiles())
                             {
-                                //file.MoveTo($@"{completedPath}\{file.Name}");
+                                //file.MoveTo($@"{cPath}\{file.Name}");
+                                file.CopyTo($@"{cPath}\{file.Name}");
                                 file.Delete();
                             }
                         }
+
+                        if (Directory.Exists(dPath))
+                        {
+                            foreach (var file in new DirectoryInfo(dPath).GetFiles())
+                            {
+                                file.Delete();
+                            }
+                        }
+
+                        //if (dayName == "Sunday")
+                        //{
+                        //    if (Directory.Exists(cPath))
+                        //    {
+                        //        foreach (var file in new DirectoryInfo(cPath).GetFiles())
+                        //        {
+                        //            file.Delete();
+                        //        }
+                        //    }
+                        //}
+
                     }
                     else
                     {
@@ -72,5 +106,82 @@ namespace NetAPIGrid.Service
                 return StatusCode(500, $"Error. msg: {ex.Message}");
             }
         }
+
+        public async Task<IActionResult> DecryptFile()
+        {
+            string line;
+            try
+            {
+                var encryptedPath = Path.Combine(_hostingEnvironment.WebRootPath, "encrypted/");
+                var decryptedPath = Path.Combine(_hostingEnvironment.WebRootPath, "decrypted/");
+
+                var txtFiles = Directory.EnumerateFiles(encryptedPath, "*.txt");
+
+                if (txtFiles.Count() > 0)
+                {
+                    foreach (string currentFile in txtFiles)
+                    {
+                        //var x = currentFile.Replace(encryptedPath," ");
+
+                        using (FileStream stream = new FileStream(decryptedPath + currentFile.Replace(encryptedPath, " "), FileMode.Create))
+                        {
+                            var result = new StringBuilder();
+                            using (var reader = new StreamReader(currentFile))
+                            {
+                                while (reader.Peek() >= 0)
+                                    result.AppendLine(_aes.Decrypt(reader.ReadLine()));
+                            }
+
+                            var encryptedText = result.ToString();
+                            byte[] data = new UTF8Encoding(true).GetBytes(encryptedText);
+                            await stream.WriteAsync(data, 0, data.Length);
+                            stream.Close();
+                            stream.Dispose();
+                        }
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("No File to Decrypt.");
+                }
+
+                return Ok("File has been Decrypted!");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Error. msg: {ex.Message}");
+            }
+        }
+
+        //public IActionResult DeleteFiles()
+        //{
+        //    var ePath = Path.Combine(_hostingEnvironment.WebRootPath, "encrypted/");
+        //    var dPath = Path.Combine(_hostingEnvironment.WebRootPath, "decrypted/");
+
+        //    try
+        //    {
+        //        if (Directory.Exists(dPath))
+        //        {
+        //            foreach (var file in new DirectoryInfo(dPath).GetFiles())
+        //            {
+        //                file.Delete();
+        //            }
+        //        }
+
+        //        if (Directory.Exists(ePath))
+        //        {
+        //            foreach (var file in new DirectoryInfo(ePath).GetFiles())
+        //            {
+        //                file.Delete();
+        //            }
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        Console.Write(ex.ToString());
+        //    }
+
+        //    return Ok("Files has been removed");
+        //}
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetAPIGrid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4487a3e9fe47006ee1ffdcda395deeae3ab6658")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d00cd6e71abe26585d4dc581d74f117b3f564a52")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetAPIGrid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetAPIGrid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,27 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid.csproj": {}
+    "C:\\Users\\rogie.pelicano\\source\\repos\\GridLevel7\\NetAPIGrid\\NetAPIGrid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid.csproj": {
+    "C:\\Users\\rogie.pelicano\\source\\repos\\GridLevel7\\NetAPIGrid\\NetAPIGrid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid.csproj",
+        "projectUniqueName": "C:\\Users\\rogie.pelicano\\source\\repos\\GridLevel7\\NetAPIGrid\\NetAPIGrid.csproj",
         "projectName": "NetAPIGrid",
-        "projectPath": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid.csproj",
-        "packagesPath": "C:\\Users\\ronald.raymundo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronald.raymundo\\Downloads\\NetAPIGrid\\NetAPIGrid\\NetAPIGrid\\obj\\",
+        "projectPath": "C:\\Users\\rogie.pelicano\\source\\repos\\GridLevel7\\NetAPIGrid\\NetAPIGrid.csproj",
+        "packagesPath": "C:\\Users\\rogie.pelicano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rogie.pelicano\\source\\repos\\GridLevel7\\NetAPIGrid\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ronald.raymundo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rogie.pelicano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,6 +74,12 @@
               "target": "Package",
               "version": "[9.0.5, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
             "Microsoft.SharePoint.Client.Online.CSOM": {
               "target": "Package",
               "version": "[15.0.4919.1000, )"
@@ -113,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

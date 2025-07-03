@@ -1,0 +1,781 @@
+2025-07-01 06:20:47|||Tracker Info||| Tracker Started | App Version: 1.0.0.3 | Config Version: 1.0.0.3|||ronald.raymundo
+2025-07-01 06:20:47|||Active Window|||Windows Default Lock Screen|||ronald.raymundo
+2025-07-01 06:25:38|||Idle|||Idle|||ronald.raymundo
+2025-07-01 06:30:37|||Idle|||Idle|||ronald.raymundo
+2025-07-01 06:35:37|||Idle|||Idle|||ronald.raymundo
+2025-07-01 06:40:38|||Idle|||Idle|||ronald.raymundo
+2025-07-01 06:45:38|||Idle|||Idle|||ronald.raymundo
+2025-07-01 06:50:38|||Idle|||Idle|||ronald.raymundo
+2025-07-01 06:51:02|||Tracker Info|||Error with the HTTP request: A socket operation was attempted to an unreachable host. (10.51.35.174:8089)|||ronald.raymundo
+2025-07-01 06:51:02|||Tracker Info|||Upload failed.|||ronald.raymundo
+2025-07-01 06:51:02|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 06:55:37|||Idle|||Idle|||ronald.raymundo
+2025-07-01 06:58:53|||Active Window|||UnlockingWindow|||ronald.raymundo
+2025-07-01 07:00:55|||Active Window|||LockingWindow|||ronald.raymundo
+2025-07-01 07:01:51|||Active Window|||Windows Default Lock Screen|||ronald.raymundo
+2025-07-01 07:01:56|||Active Window|||UnlockingWindow|||ronald.raymundo
+2025-07-01 07:01:56|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 07:02:03|||Active Window|||Quick settings|||ronald.raymundo
+2025-07-01 07:02:16|||Active Window|||Search|||ronald.raymundo
+2025-07-01 07:02:21|||Active Window|||Microsoft Teams|||ronald.raymundo
+2025-07-01 07:02:22|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 07:02:23|||Active Window|||Chat | Zacarias, Jim Carlo | Microsoft Teams|||ronald.raymundo
+2025-07-01 07:02:26|||Active Window|||Activity | Microsoft Teams|||ronald.raymundo
+2025-07-01 07:02:27|||Active Window|||Activity | 🤣Oops I GRID It Again🤣 | Microsoft Teams|||ronald.raymundo
+2025-07-01 07:04:25|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 07:04:25|||Active Window|||Chat | Zacarias, Jim Carlo | Microsoft Teams|||ronald.raymundo
+2025-07-01 07:04:30|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 07:04:36|||Active Window|||Dashboard (Running) - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 07:04:39|||Active Window|||Untitled - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 07:04:44|||Active Window|||Dashboard (Running) - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 07:05:14|||Active Window|||GRID v2.5.8.11|||ronald.raymundo
+2025-07-01 07:05:26|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 07:05:28|||Active Window|||GRID v2.5.8.11|||ronald.raymundo
+2025-07-01 07:05:45|||Tracker Info||| Tracker Started | App Version: 1.0.0.3 | Config Version: 1.0.0.3|||ronald.raymundo
+2025-07-01 07:05:45|||Active Window|||Grid|||ronald.raymundo
+2025-07-01 07:05:59|||Active Window|||GRID v2.5.8.11|||ronald.raymundo
+2025-07-01 07:07:43|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 07:07:47|||Active Window|||Dashboard (Running) - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 07:07:59|||Active Window|||SQLQuery4.sql - not connected* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:08:20|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 07:09:15|||Active Window|||SQLQuery4.sql - not connected* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:09:26|||Active Window|||SQLQuery5.sql - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:09:29|||Active Window|||SQLQuery5.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (58)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:09:33|||Active Window|||SQLQuery5.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (58))|||ronald.raymundo
+2025-07-01 07:09:34|||Active Window|||SQLQuery4.sql - not connected* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:10:06|||Active Window|||{BADC3CB2-07EA-4E8D-BC19-35DF68AADD70}|||ronald.raymundo
+2025-07-01 07:10:06|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:10:19|||Active Window|||SQLQuery3_1.sql - not connected* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:13:13|||Active Window|||Connect to Database Engine|||ronald.raymundo
+2025-07-01 07:13:17|||Active Window|||SQLQuery3_1.sql - not connected* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:13:18|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.master (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:13:20|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.master (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:13:20|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.master (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:13:34|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.master (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:13:34|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:13:34|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:13:48|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:14:03|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:15:45|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:16:26|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:16:33|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:16:33|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:17:13|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:17:55|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:19:45|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:20:44|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:23:50|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:24:17|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:24:28|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:25:01|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:30:07|||Idle|||Idle|||ronald.raymundo
+2025-07-01 07:31:04|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:31:33|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:31:45|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:32:13|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:32:37|||Active Window|||Chat | Zacarias, Jim Carlo | Microsoft Teams|||ronald.raymundo
+2025-07-01 07:33:41|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 07:33:49|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 07:34:05|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 07:34:10|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 07:34:14|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 07:34:45|||Active Window|||New tab and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 07:34:52|||Active Window|||griddesktopanalytics.cardinalhealth.net and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 07:35:00|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 07:35:34|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 07:35:36|||Active Window|||Chat | Zacarias, Jim Carlo | Microsoft Teams|||ronald.raymundo
+2025-07-01 07:35:41|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:35:51|||Tracker Info|||Token fetch retry 1 in 4s. Reason: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.|||ronald.raymundo
+2025-07-01 07:36:00|||Tracker Info|||Token fetch retry 2 in 8s. Reason: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.|||ronald.raymundo
+2025-07-01 07:36:07|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:36:08|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:36:11|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 07:36:11|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 07:36:58|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:39:04|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 07:39:33|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:40:15|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:40:32|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:41:24|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:49:51|||Idle|||Idle|||ronald.raymundo
+2025-07-01 07:57:58|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:58:38|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 07:59:19|||Active Window|||Chat | Zacarias, Jim Carlo | Microsoft Teams|||ronald.raymundo
+2025-07-01 07:59:48|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:02:19|||Active Window|||Microsoft Teams|||ronald.raymundo
+2025-07-01 08:02:19|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:02:19|||Active Window|||Chat | Zacarias, Jim Carlo | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:06:15|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 08:06:15|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 08:14:14|||Idle|||Idle|||ronald.raymundo
+2025-07-01 08:15:16|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:20:21|||Idle|||Idle|||ronald.raymundo
+2025-07-01 08:27:17|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:27:58|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:28:49|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:30:07|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:30:12|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:30:47|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:31:22|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:31:26|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:32:34|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:32:38|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:33:49|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:34:23|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:34:51|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:35:22|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:36:06|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:36:12|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:36:15|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:36:15|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:36:17|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 08:36:17|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 08:36:26|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:37:40|||Active Window|||Chat | Zacarias, Jim Carlo | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:37:42|||Active Window|||Chat | 🤣Oops I GRID It Again🤣 | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:38:56|||Active Window|||Activity | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:38:57|||Active Window|||Activity | GRID Connect | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:39:32|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:39:33|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 08:39:33|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:39:34|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 08:39:35|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:39:35|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 08:39:39|||Active Window|||Untitled - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:39:42|||Active Window|||Working... - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:39:45|||Active Window|||Activity | GRID Connect | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:39:48|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:39:50|||Active Window|||Activity | GRID Connect | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:39:51|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:39:52|||Active Window|||Activity | GRID Connect | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:46:58|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 08:47:00|||Active Window|||GMB-GRID-Support - Inbox - GMB-GRID-Support - Outlook|||ronald.raymundo
+2025-07-01 08:47:04|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 08:47:04|||Active Window|||GRID TEAM - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 08:47:28|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 08:52:34|||Idle|||Idle|||ronald.raymundo
+2025-07-01 08:52:51|||Active Window|||Activity | GRID Connect | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:52:52|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:52:53|||Active Window|||Chat | 🤣Oops I GRID It Again🤣 | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:53:26|||Active Window|||Untitled - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:53:29|||Active Window|||Working... - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:53:35|||Active Window|||griddesktopanalytics.cardinalhealth.net - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:53:43|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:54:31|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:57:00|||Active Window|||Chat | 🤣Oops I GRID It Again🤣 | Microsoft Teams|||ronald.raymundo
+2025-07-01 08:58:00|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:58:02|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 08:58:07|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:58:16|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:58:18|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:58:20|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 08:58:32|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:58:36|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:58:39|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:58:39|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:58:51|||Active Window|||Dashboard (Running) - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 08:58:53|||Active Window|||Untitled - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 08:58:58|||Active Window|||Search|||ronald.raymundo
+2025-07-01 08:59:03|||Active Window|||Remote Desktop Connection|||ronald.raymundo
+2025-07-01 09:00:01|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 09:00:07|||Active Window|||Remote Desktop Connection|||ronald.raymundo
+2025-07-01 09:00:11|||Active Window|||Windows Security|||ronald.raymundo
+2025-07-01 09:00:17|||Active Window|||Remote Desktop Connection|||ronald.raymundo
+2025-07-01 09:00:22|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 09:00:37|||Active Window|||10.51.35.174 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 09:00:43|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 09:01:01|||Active Window|||10.51.35.174 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 09:04:02|||Active Window|||Remote Desktop Connection|||ronald.raymundo
+2025-07-01 09:04:04|||Active Window|||10.51.35.174 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 09:04:04|||Active Window|||Remote Desktop Connection|||ronald.raymundo
+2025-07-01 09:04:05|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 09:06:19|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 09:06:19|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 09:10:04|||Idle|||Idle|||ronald.raymundo
+2025-07-01 09:11:03|||Active Window|||Chat | 🤣Oops I GRID It Again🤣 | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:11:25|||Active Window|||GRID v2.5.8.11|||ronald.raymundo
+2025-07-01 09:14:54|||Active Window|||Chat | 🤣Oops I GRID It Again🤣 | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:14:55|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:15:06|||Active Window|||FW: Okta - GRID Application Stage Onboarding Details - Message (HTML) |||ronald.raymundo
+2025-07-01 09:16:01|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:16:45|||Active Window|||FW: Okta - GRID Application Stage Onboarding Details - Message (HTML) |||ronald.raymundo
+2025-07-01 09:17:52|||Active Window|||Chat | 🤣Oops I GRID It Again🤣 | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:18:34|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 09:20:11|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:20:13|||Active Window|||GMB-GRID-Support - Inbox - GMB-GRID-Support - Outlook|||ronald.raymundo
+2025-07-01 09:20:24|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:20:40|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 09:21:37|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:24:26|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 09:29:21|||Active Window|||Search|||ronald.raymundo
+2025-07-01 09:29:24|||Active Window|||Settings|||ronald.raymundo
+2025-07-01 09:29:29|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 09:29:42|||Active Window|||Chat | 🤣Oops I GRID It Again🤣 | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:29:46|||Active Window|||Chat | GL7 - Optimization | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:29:49|||Active Window|||Chat | AAA CHIP TEAM | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:29:50|||Active Window|||Chat | WEEKLY SCRUM | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:30:37|||Active Window|||Microsoft Teams|||ronald.raymundo
+2025-07-01 09:30:37|||Active Window|||Chat | WEEKLY SCRUM | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:30:37|||Active Window|||Microsoft Teams|||ronald.raymundo
+2025-07-01 09:30:38|||Active Window|||WEEKLY SCRUM | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:36:21|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 09:36:21|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 09:48:25|||Active Window|||Microsoft Teams|||ronald.raymundo
+2025-07-01 09:48:25|||Active Window|||WEEKLY SCRUM | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:48:26|||Active Window|||Chat | WEEKLY SCRUM | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:48:57|||Active Window|||WEEKLY SCRUM | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:52:33|||Active Window|||Chat | WEEKLY SCRUM | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:52:37|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 09:57:56|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:58:00|||Active Window|||GRID v2.5.8.11|||ronald.raymundo
+2025-07-01 09:58:02|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:58:10|||Active Window|||FW: Okta - GRID Application Stage Onboarding Details - Message (HTML) |||ronald.raymundo
+2025-07-01 09:58:12|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:58:14|||Active Window|||Settings|||ronald.raymundo
+2025-07-01 09:58:28|||Active Window|||Chat | WEEKLY SCRUM | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:58:34|||Active Window|||Chat | GL7 - Optimization | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:58:38|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 09:59:04|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 09:59:14|||Active Window|||Dashboard (Running) - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 09:59:16|||Active Window|||Untitled - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 09:59:18|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:59:20|||Active Window|||Calendar - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 09:59:26|||Active Window|||Untitled - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 09:59:26|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 10:04:00|||Active Window|||Dashboard (Running) - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 10:04:04|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 10:04:17|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:04:19|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:04:22|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:04:27|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:06:22|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 10:06:22|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 10:08:41|||Active Window|||SQLQuery6.sql - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:08:45|||Active Window|||SQLQuery6.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (2920)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:08:51|||Active Window|||SQLQuery6.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (2920))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:09:04|||Active Window|||SQLQuery6.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (2920)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:09:38|||Active Window|||SQLQuery6.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (2920))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:10:03|||Active Window|||SQLQuery6.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (2920))*|||ronald.raymundo
+2025-07-01 10:10:04|||Active Window|||Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:10:05|||Active Window|||SQLQuery6.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (2920))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:10:05|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:10:35|||Active Window|||{BADC3CB2-07EA-4E8D-BC19-35DF68AADD70}|||ronald.raymundo
+2025-07-01 10:10:36|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActivityLogs_Final_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:10:51|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:10:53|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:11:01|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:11:57|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 10:12:11|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:17:24|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 10:19:11|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 10:19:14|||Active Window|||Activity | Microsoft Teams|||ronald.raymundo
+2025-07-01 10:19:14|||Active Window|||Activity | Viva Engage | Microsoft Teams|||ronald.raymundo
+2025-07-01 10:23:51|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:24:01|||Active Window|||Activity | Viva Engage | Microsoft Teams|||ronald.raymundo
+2025-07-01 10:24:02|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 10:24:02|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 10:24:06|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:24:08|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 10:24:08|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:24:15|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 10:27:49|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:28:03|||Active Window|||SQLQuery7.sql - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:28:05|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:28:22|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) Executing... - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:28:42|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:28:49|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) Executing... - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:31:10|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:34:24|||Idle|||Idle|||ronald.raymundo
+2025-07-01 10:36:24|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 10:36:24|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 10:39:42|||Idle|||Idle|||ronald.raymundo
+2025-07-01 10:46:23|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 10:47:06|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:47:07|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:47:12|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 10:47:12|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:47:30|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 10:47:33|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 10:57:50|||Idle|||Idle|||ronald.raymundo
+2025-07-01 11:02:49|||Idle|||Idle|||ronald.raymundo
+2025-07-01 11:06:26|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 11:06:26|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 11:07:42|||Active Window|||Windows Default Lock Screen|||ronald.raymundo
+2025-07-01 11:08:18|||Active Window|||UnlockingWindow|||ronald.raymundo
+2025-07-01 11:08:23|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:10:39|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:10:40|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:18:25|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:19:17|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:20:43|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:20:45|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:22:03|||Active Window|||SQLQuery8.sql - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:22:06|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:22:44|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:22:58|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:23:00|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:23:12|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:23:12|||Idle|||Long Press: 894.747|||ronald.raymundo
+2025-07-01 11:23:18|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:23:36|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:23:52|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:24:00|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:24:39|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:24:55|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:26:50|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:26:51|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:28:15|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:28:17|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:28:19|||Active Window|||Jump List for Excel|||ronald.raymundo
+2025-07-01 11:28:25|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:28:26|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:28:34|||Active Window|||Task Manager|||ronald.raymundo
+2025-07-01 11:28:36|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:28:39|||Active Window|||Task Manager|||ronald.raymundo
+2025-07-01 11:28:40|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:28:43|||Active Window|||Task Manager|||ronald.raymundo
+2025-07-01 11:28:51|||Active Window|||GRID_7 - File Explorer|||ronald.raymundo
+2025-07-01 11:28:53|||Active Window|||Opening - Excel|||ronald.raymundo
+2025-07-01 11:28:53|||Active Window|||Excel|||ronald.raymundo
+2025-07-01 11:28:54|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:29:38|||Active Window|||Microsoft Excel|||ronald.raymundo
+2025-07-01 11:29:41|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:30:14|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:30:16|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:30:21|||Active Window|||Microsoft Excel|||ronald.raymundo
+2025-07-01 11:30:28|||Active Window|||app_query.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:30:29|||Active Window|||app_query (version 1).xlsb - Excel|||ronald.raymundo
+2025-07-01 11:30:29|||Active Window|||app_query (version 1).xlsb  -  AutoRecovered - Excel|||ronald.raymundo
+2025-07-01 11:30:45|||Active Window|||Save As|||ronald.raymundo
+2025-07-01 11:30:46|||Active Window|||app_query (version 1).xlsb  -  AutoRecovered - Excel|||ronald.raymundo
+2025-07-01 11:30:46|||Active Window|||Microsoft Excel|||ronald.raymundo
+2025-07-01 11:30:53|||Active Window|||app_query (version 1).xlsb  -  AutoRecovered - Excel|||ronald.raymundo
+2025-07-01 11:30:54|||Active Window|||app_query (version 1).xlsb.xlsx  -  AutoRecovered - Excel|||ronald.raymundo
+2025-07-01 11:30:54|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:31:11|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:31:25|||Active Window|||SQL Syntax Errors Encountered|||ronald.raymundo
+2025-07-01 11:31:27|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:31:53|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:31:58|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:31:59|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:32:11|||Active Window|||SQL Syntax Errors Encountered|||ronald.raymundo
+2025-07-01 11:32:13|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_WithRank - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:32:16|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:32:41|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_WithRank - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:32:46|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:34:13|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_WithRank - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:34:18|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:34:25|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_WithRank - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:34:26|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:34:32|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:34:36|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:36:28|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 11:36:28|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 11:38:28|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:38:37|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:38:40|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:38:49|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio (Not Responding)|||ronald.raymundo
+2025-07-01 11:39:01|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:39:07|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:39:25|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:39:55|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:40:49|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:41:05|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup - Microsoft SQL Server Management Studio (Not Responding)|||ronald.raymundo
+2025-07-01 11:41:09|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:41:25|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:41:33|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:41:35|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:41:38|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:42:16|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:42:19|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:42:32|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:42:37|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:42:45|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:42:51|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration_GroupBy - Microsoft SQL Server Management Studio (Not Responding)|||ronald.raymundo
+2025-07-01 11:42:57|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:43:04|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:43:05|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:43:21|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio (Not Responding)|||ronald.raymundo
+2025-07-01 11:43:28|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:43:34|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:43:45|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 11:43:49|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:44:47|||Active Window|||New notification|||ronald.raymundo
+2025-07-01 11:44:48|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:45:02|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:46:36|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:48:42|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:48:48|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:49:26|||Active Window|||Microsoft Excel|||ronald.raymundo
+2025-07-01 11:49:30|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:49:38|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:49:41|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:51:14|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:51:17|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:52:34|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:52:46|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:53:14|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:53:24|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:53:41|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:53:50|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 11:55:03|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 11:55:39|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 12:00:50|||Idle|||Idle|||ronald.raymundo
+2025-07-01 12:05:50|||Idle|||Idle|||ronald.raymundo
+2025-07-01 12:06:21|||Active Window|||Windows Default Lock Screen|||ronald.raymundo
+2025-07-01 12:06:30|||Idle|||Long Press: 3492.149|||ronald.raymundo
+2025-07-01 12:06:30|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 12:06:30|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 12:06:35|||Active Window|||UnlockingWindow|||ronald.raymundo
+2025-07-01 12:06:35|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 12:08:30|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 12:11:55|||Active Window|||Windows Default Lock Screen|||ronald.raymundo
+2025-07-01 12:16:54|||Idle|||Idle|||ronald.raymundo
+2025-07-01 12:18:27|||Active Window|||UnlockingWindow|||ronald.raymundo
+2025-07-01 12:18:33|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 12:18:42|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:18:49|||Active Window|||Dashboard (Running) - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 12:18:50|||Active Window|||Untitled - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 12:18:59|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 12:19:02|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 12:19:04|||Active Window|||GRID_7 - File Explorer|||ronald.raymundo
+2025-07-01 12:19:19|||Active Window|||app_query (version 1).xlsb.xlsx - Excel|||ronald.raymundo
+2025-07-01 12:19:21|||Idle|||Long Press: 54.255|||ronald.raymundo
+2025-07-01 12:19:22|||Active Window|||GRID_7 - File Explorer|||ronald.raymundo
+2025-07-01 12:20:03|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:20:06|||Active Window|||Chat | GL7 - Optimization | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:20:18|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:20:52|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 12:21:22|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:21:26|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 12:21:26|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:21:46|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 12:21:59|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:22:04|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 12:23:43|||Active Window|||GRID_7 - File Explorer|||ronald.raymundo
+2025-07-01 12:23:45|||Active Window|||Opening - Excel|||ronald.raymundo
+2025-07-01 12:23:46|||Active Window|||Excel|||ronald.raymundo
+2025-07-01 12:23:46|||Active Window|||app_query2.xlsx - Excel|||ronald.raymundo
+2025-07-01 12:24:56|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 12:24:59|||Active Window|||app_query2.xlsx - Excel|||ronald.raymundo
+2025-07-01 12:25:00|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:25:23|||Active Window|||Open|||ronald.raymundo
+2025-07-01 12:25:59|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:27:07|||Active Window|||app_query2.xlsx - Excel|||ronald.raymundo
+2025-07-01 12:32:14|||Idle|||Idle|||ronald.raymundo
+2025-07-01 12:35:47|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:36:08|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:36:32|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 12:36:32|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 12:37:22|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:37:22|||Active Window|||Activity | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:37:22|||Active Window|||Activity | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:37:24|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:37:25|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:37:47|||Active Window|||Calendar - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 12:37:49|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 12:38:05|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_TopApp_Lookup_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:38:54|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:38:55|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:40:17|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:40:41|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:42:00|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:42:12|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:42:22|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:42:43|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 12:47:00|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:52:01|||Idle|||Idle|||ronald.raymundo
+2025-07-01 12:58:34|||Idle|||Idle|||ronald.raymundo
+2025-07-01 12:58:51|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 12:58:52|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:58:56|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 12:58:59|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:59:02|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:59:04|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:59:07|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:59:07|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 12:59:10|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 12:59:11|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:00:43|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 13:00:49|||Active Window|||Untitled - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:00:52|||Active Window|||Working... - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:00:55|||Active Window|||Home - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:00:58|||Active Window|||myspark cardinal health - Search - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:05|||Active Window|||Untitled and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:06|||Active Window|||bing.com/ck/a?!&&p=6085d73328cca9ad498e09c26ab3beccda9c71c0f478803ff6b89c12b2cf4996JmltdHM9MTc1MTMyODAwMA&ptn=3&ver=2&hsh=4&fclid=32d8c802-76e8-62cc-1428-dc5d77ad63fc&psq=myspark+cardinal+health&u=a1aHR0cHM6Ly9sb2dpbi5jYXJkaW5hbGhlYWx0aC5uZXQv&ntb=1 and 1|||ronald.raymundo
+2025-07-01 13:01:08|||Active Window|||identity.cardinalhealth.net/app/UserHome?iss=https%3A%2F%2Fidentity.cardinalhealth.net&session_hint=AUTHENTICATED and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:10|||Active Window|||Cardinal Health Enterprise Login Page and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:15|||Active Window|||identity.cardinalhealth.net/sso/idps/DSSO?stateTokenExternalId=Wm9qTjF4TVV2VHp3YXV0YUxpUm0yNitKZFlDU0g4aDRqbGJlT1FUdVN1Ry8yTnZ3Vklud0ZPbmhROGVnK1RLZQ and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:19|||Active Window|||cardinalb2e.kerberos.okta.com/login/agentlessDsso/interact?precheck=false&interactionHandle=Wm9qTjF4TVV2VHp3YXV0YUxpUm0yNitKZFlDU0g4aDRqbGJlT1FUdVN1Ry8yTnZ3Vklud0ZPbmhROGVnK1RLZQ and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:21|||Active Window|||Cardinal Health Enterprise Login Page and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:23|||Active Window|||identity.cardinalhealth.net/enduser/callback?code=Lhs4d4b-Zalx8pEC7-J7atfkr_vH9YoAYJkXSq15iCI&state=XQ8LY4grwxCQ5nq8zIuWcHDOSE0hWd20L8E0pFHIw84SHHP7beVJ0OnDxPaXkW4g and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:24|||Active Window|||identity.cardinalhealth.net/app/UserHome?iss=https%3A%2F%2Fidentity.cardinalhealth.net&session_hint=AUTHENTICATED and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:26|||Active Window|||My Apps Dashboard | Cardinal Health, Inc. - Prod and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:31|||Active Window|||Untitled and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:32|||Active Window|||My Apps Dashboard | Cardinal Health, Inc. - Prod and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:33|||Active Window|||Cardinal Health, Inc. - Prod - Signing in... and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:36|||Active Window|||Welcome - Realize Your Potential: Cardinal Health and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:01:39|||Active Window|||Inbox - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 13:01:41|||Active Window|||Calendar - ronald.raymundo@cardinalhealth.com - Outlook|||ronald.raymundo
+2025-07-01 13:01:45|||Active Window|||Welcome - Realize Your Potential: Cardinal Health and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:02:05|||Active Window|||My Apps Dashboard | Cardinal Health, Inc. - Prod and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:02:05|||Active Window|||Welcome - Realize Your Potential: Cardinal Health and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:02:30|||Active Window|||Untitled and 3 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:02:32|||Active Window|||Cardinal Health, Inc. - Prod - Signing in... and 3 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:02:34|||Active Window|||My Apps Dashboard | Cardinal Health, Inc. - Prod and 3 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:02:38|||Active Window|||Untitled and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:02:39|||Active Window|||::::.ComplianceWire and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:02:47|||Active Window|||Welcome - Realize Your Potential: Cardinal Health and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:02:49|||Active Window|||Home - Workday and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:03:01|||Active Window|||Time Off Balance - Workday and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:03:36|||Active Window|||::::.ComplianceWire and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:03:36|||Active Window|||Welcome - Realize Your Potential: Cardinal Health and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:03:36|||Active Window|||Time Off Balance - Workday and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:03:39|||Active Window|||Home - Workday and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:03:42|||Active Window|||My Absence - Workday and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:06:34|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 13:06:34|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 13:09:46|||Idle|||Idle|||ronald.raymundo
+2025-07-01 13:14:46|||Idle|||Idle|||ronald.raymundo
+2025-07-01 13:15:21|||Idle|||Long Press: 3414.243|||ronald.raymundo
+2025-07-01 13:15:26|||Active Window|||UnlockingWindow|||ronald.raymundo
+2025-07-01 13:15:27|||Active Window|||My Absence - Workday and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:15:28|||Active Window|||Microsoft Teams|||ronald.raymundo
+2025-07-01 13:15:28|||Active Window|||My Absence - Workday and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:15:28|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:21:03|||Active Window|||My Absence - Workday and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:21:07|||Active Window|||myspark cardinal health - Search and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:21:09|||Active Window|||::::.ComplianceWire and 4 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:21:10|||Active Window|||Welcome - Realize Your Potential: Cardinal Health and 3 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:21:11|||Active Window|||My Absence - Workday and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:21:12|||Active Window|||My Apps Dashboard | Cardinal Health, Inc. - Prod and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:21:13|||Active Window|||myspark cardinal health - Search - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:21:29|||Active Window|||Cardinal Health Enterprise Login Page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:21:30|||Active Window|||Okta Verify|||ronald.raymundo
+2025-07-01 13:21:34|||Active Window|||Cardinal Health Enterprise Login Page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:21:34|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:21:36|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:21:38|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 13:21:42|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:21:44|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:21:44|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActivityLogs_Final_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:21:46|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:21:49|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:21:56|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:22:14|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:22:16|||Active Window|||Cardinal Health Enterprise Login Page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:22:17|||Active Window|||Cardinal Health, Inc. - Prod - Signing in... - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:22:18|||Active Window|||google.com/a/cardinalhealth.com/acs - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:22:19|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 13:22:35|||Active Window|||GRID_7 - File Explorer|||ronald.raymundo
+2025-07-01 13:22:41|||Active Window|||Delete Folder|||ronald.raymundo
+2025-07-01 13:22:41|||Active Window|||GRID_7 - File Explorer|||ronald.raymundo
+2025-07-01 13:22:43|||Active Window|||publish - File Explorer|||ronald.raymundo
+2025-07-01 13:22:46|||Active Window|||Delete Multiple Items|||ronald.raymundo
+2025-07-01 13:22:47|||Active Window|||publish - File Explorer|||ronald.raymundo
+2025-07-01 13:22:50|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 13:22:52|||Active Window|||PlacementTargetWindow|||ronald.raymundo
+2025-07-01 13:22:53|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 13:23:13|||Active Window|||publish - File Explorer|||ronald.raymundo
+2025-07-01 13:23:15|||Active Window|||GRID_7 - File Explorer|||ronald.raymundo
+2025-07-01 13:23:21|||Active Window|||Compressing...|||ronald.raymundo
+2025-07-01 13:23:22|||Active Window|||GRID_7 - File Explorer|||ronald.raymundo
+2025-07-01 13:23:25|||Active Window|||grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:23:35|||Active Window|||Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:23:40|||Active Window|||Buckets – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:23:49|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:24:01|||Active Window|||Open|||ronald.raymundo
+2025-07-01 13:24:07|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:24:11|||Active Window|||Task Manager|||ronald.raymundo
+2025-07-01 13:24:13|||Active Window|||app_query2.xlsx - Excel|||ronald.raymundo
+2025-07-01 13:26:54|||Active Window|||Search|||ronald.raymundo
+2025-07-01 13:26:59|||Active Window|||Remote Desktop Connection|||ronald.raymundo
+2025-07-01 13:27:07|||Active Window|||Windows Security|||ronald.raymundo
+2025-07-01 13:27:14|||Active Window|||Remote Desktop Connection|||ronald.raymundo
+2025-07-01 13:27:19|||Active Window|||Chat | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:27:28|||Active Window|||Chat | Pelicano, Rogie | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:27:53|||Active Window|||wpec5009grdrp01 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 13:27:54|||Active Window|||Chat | Pelicano, Rogie | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:27:57|||Active Window|||wpec5009grdrp01 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 13:27:59|||Active Window|||Chat | Pelicano, Rogie | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:28:16|||Active Window|||wpec5009grdrp01 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 13:30:20|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:30:21|||Active Window|||wpec5009grdrp01 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 13:30:21|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:30:22|||Active Window|||wpec5009grdrp01 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 13:36:26|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:36:28|||Active Window|||New tab and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:36:36|||Active Window|||griddesktopanalytics.cardinalhealth.net and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:36:37|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 13:36:37|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 13:36:44|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:39:56|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:40:02|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:40:15|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:40:20|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:40:48|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:40:59|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:00|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:07|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:10|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActivityLogs_Final_GroupBy - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:11|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:12|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:13|||Active Window|||SQLQuery7.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (1431))*|||ronald.raymundo
+2025-07-01 13:41:13|||Active Window|||Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:15|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:16|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:17|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))*|||ronald.raymundo
+2025-07-01 13:41:18|||Active Window|||SQLQuery8.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (3073))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:18|||Active Window|||Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:19|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:23|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:30|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:37|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:41:42|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:42:20|||Active Window|||Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:42:21|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:42:36|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:43:03|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:04|||Active Window|||New tab and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:07|||Active Window|||Google and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:07|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:11|||Active Window|||Google and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:17|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:21|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:22|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:23|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:37|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:39|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:44|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:46|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:54|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:45:57|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:46:06|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:46:10|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:46:14|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:46:17|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:46:36|||Active Window|||Chat | Pelicano, Rogie | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:46:40|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:47:14|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:47:16|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:47:19|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:47:25|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:47:29|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:47:29|||Active Window|||Chat | Pelicano, Rogie | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:47:59|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:49:56|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:50:50|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:51:15|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:52:18|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:52:29|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:53:20|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:53:26|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:53:38|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:53:39|||Active Window|||Chat | Pelicano, Rogie | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:53:40|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:53:47|||Active Window|||Chat | Pelicano, Rogie | Microsoft Teams|||ronald.raymundo
+2025-07-01 13:53:56|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:53:58|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:53:59|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:54:02|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:54:03|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 13:54:48|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:56:27|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:56:43|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:56:56|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 13:57:15|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:01:10|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:01:40|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:02:05|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:02:42|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:04:18|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:04:52|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:06:14|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:06:40|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 14:06:40|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 14:06:54|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:11:43|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:12:28|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:13:25|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:13:26|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:14:08|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:15:06|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:16:59|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:17:06|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:17:29|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:17:31|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:18:37|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:18:39|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:18:42|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:18:42|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:18:44|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:18:56|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:19:04|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:19:06|||Active Window|||SQLQuery4.sql - not connected* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:19:10|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:19:13|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:19:13|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:20:10|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:20:10|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:20:32|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:20:32|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:21:01|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:21:32|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:21:51|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:22:04|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:23:22|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:24:04|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:26:17|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142)) Executing...* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:27:05|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:27:55|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:28:00|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:28:10|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:28:11|||Active Window|||wpec5009grdsq01.GRID_LVL_SEVEN - dbo.vw_ActiveWindow_Idle_With_Duration* - Microsoft SQL Server Management Studio (Not Responding)|||ronald.raymundo
+2025-07-01 14:28:12|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:28:14|||Active Window|||New tab and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:28:20|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:30:20|||Active Window|||New tab and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:30:23|||Active Window|||Google and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:30:29|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:30:33|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:31:07|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:31:12|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:31:48|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:31:49|||Active Window|||Chat | Pelicano, Rogie | Microsoft Teams|||ronald.raymundo
+2025-07-01 14:31:54|||Active Window|||GRID Desktop Analytics and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:33:36|||Active Window|||seconds to hours - Google Search and 2 more pages - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:33:37|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:34:45|||Active Window|||SQLQuery3_1.sql - wpec5009grdsq01.GRID_LVL_SEVEN (CARDINALHEALTH\ronald.raymundo (142))* - Microsoft SQL Server Management Studio|||ronald.raymundo
+2025-07-01 14:35:00|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:36:42|||Tracker Info|||Uploading... OK - File uploaded successfully!|||ronald.raymundo
+2025-07-01 14:36:42|||Tracker Info|||Waiting 30 minutes for next upload...|||ronald.raymundo
+2025-07-01 14:37:16|||Active Window|||Windows Default Lock Screen|||ronald.raymundo
+2025-07-01 14:42:15|||Idle|||Idle|||ronald.raymundo
+2025-07-01 14:44:37|||Active Window|||UnlockingWindow|||ronald.raymundo
+2025-07-01 14:44:38|||Active Window|||GRID Desktop Analytics and 1 more page - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:49:56|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:49:57|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 14:51:11|||Active Window|||Dashboard (Running) - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 14:51:14|||Active Window|||Untitled - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:51:23|||Active Window|||GRID Desktop Analytics - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:53:37|||Active Window|||Dashboard (Running) - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 14:53:37|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 14:54:05|||Active Window|||Windows Default Lock Screen|||ronald.raymundo
+2025-07-01 14:58:47|||Active Window|||UnlockingWindow|||ronald.raymundo
+2025-07-01 14:58:53|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 14:59:00|||Active Window|||wpec5009grdrp01 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 14:59:02|||Active Window|||Remote Desktop Connection|||ronald.raymundo
+2025-07-01 14:59:03|||Active Window|||wpec5009grdrp01 - Remote Desktop Connection|||ronald.raymundo
+2025-07-01 14:59:03|||Active Window|||Dashboard - Microsoft Visual Studio (Administrator)|||ronald.raymundo
+2025-07-01 14:59:03|||Active Window|||Remote Desktop Connection|||ronald.raymundo
+2025-07-01 14:59:05|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:59:09|||Active Window|||Chat | Pelicano, Rogie | Microsoft Teams|||ronald.raymundo
+2025-07-01 14:59:11|||Active Window|||Chat | GRID GL7 data review | Microsoft Teams|||ronald.raymundo
+2025-07-01 14:59:12|||Active Window|||Chat | WEEKLY SCRUM | Microsoft Teams|||ronald.raymundo
+2025-07-01 14:59:17|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:59:21|||Active Window|||GRID v2.5.8.11|||ronald.raymundo
+2025-07-01 14:59:22|||Active Window|||Grid|||ronald.raymundo
+2025-07-01 14:59:23|||Active Window|||GRID v2.5.8.11|||ronald.raymundo
+2025-07-01 14:59:31|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo
+2025-07-01 14:59:42|||Active Window|||Settings|||ronald.raymundo
+2025-07-01 14:59:59|||Active Window|||grid-np-ca…id-bucket – Bucket details – Cloud Storage – grid-np – Google Cloud console - Work - Microsoft​ Edge|||ronald.raymundo

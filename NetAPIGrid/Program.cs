@@ -6,8 +6,14 @@ using Microsoft.OpenApi.Models;
 using Hangfire;
 using NetAPIGrid.Context;
 using Microsoft.EntityFrameworkCore;
+using NetAPIGrid.Models;
+using Microsoft.SharePoint.Portal.Topology;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("GRID_LVL_SEVEN_PROD")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -131,6 +137,7 @@ app.MapControllerRoute(
 app.MapHangfireDashboard();
 //RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job", service => service.RunInsertLogsEndPoint(), "0 * * * *");
 //RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job", service => service.RunInsertLogsEndPoint(), "*/30 * * * *");
-RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job", service => service.RunInsertLogsEndPoint(), Cron.MinuteInterval(2));
+//RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job", service => service.RunInsertLogsEndPoint(), Cron.MinuteInterval(1));
 //RecurringJob.AddOrUpdate<MyJobService>("my-recurring-job2", service => service.DeleteFiles(), Cron.Weekly(DayOfWeek.Sunday,1));
+BackgroundJob.Enqueue<MyJobService>( service => service.RunInsertLogsEndPoint());
 app.Run();

@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.SharePoint.ApplicationPages;
 using Microsoft.SharePoint.Client;
+using NetAPIGrid.Models;
 using System;
+using System.Globalization;
 using System.IO;
 using System.Text;
 
@@ -14,16 +16,21 @@ namespace NetAPIGrid.Service
         private readonly HttpClient _httpClient;
         private IWebHostEnvironment _hostingEnvironment;
         private readonly AES _aes;
-        public MyJobService(HttpClient httpClient, IWebHostEnvironment hostingEnvironment, AES aes)
+        private readonly ApplicationDbContext _db;
+
+        public MyJobService(HttpClient httpClient, IWebHostEnvironment hostingEnvironment, AES aes, ApplicationDbContext db)
         {
             _httpClient = httpClient;
             _hostingEnvironment = hostingEnvironment;
             _aes = aes;
+            _db = db;
         }
         public async Task<IActionResult> RunInsertLogsEndPoint()
         {
             string line;
             string dayName = DateTime.Now.ToString("dddd");
+            var allUserTeams = _db.VwUserTeams.ToList();
+            var productionList = _db.TblProductiveLists.ToList();
 
             await DecryptFile();
 
@@ -49,12 +56,47 @@ namespace NetAPIGrid.Service
                                 while ((line = file.ReadLine()) != null)
                                 {
                                     string[] fields = line.Split("|||");
+                                    string eid = fields[3].ToString();
 
-                                    SqlCommand cmd = new SqlCommand("INSERT INTO tblActivityLogs(EID, EventType, TimeStamp,Details) VALUES (@eid, @eventtype, @timestamp,@details)", con);
+                                    DateTime timeStamp = new DateTime();
+
+                                    var userTeams = allUserTeams.Where(x=> x.Eid== eid).FirstOrDefault();
+                                    timeStamp = DateTime.Parse(fields[0].ToString());
+
+                                    SqlCommand cmd = new SqlCommand("INSERT INTO tblActivityLogs_Test(EID, EventType, TimeStamp, Details, Cluster, Segment, WorkType, Activity_Type, Year, Month_Of_Year,Day_Of_Month, Hour_Of_Day, DateCreated) " +
+                                        "VALUES (@eid, @eventtype, @timestamp, @details, @cluster, @segment, @worktype, @activitytype, @year, @monthofyear, @dayofmonth, @hourofday, @datecreated)", con);
                                     cmd.Parameters.AddWithValue("@eid", fields[3].ToString());
                                     cmd.Parameters.AddWithValue("@eventtype", fields[1].ToString());
                                     cmd.Parameters.AddWithValue("@timestamp", fields[0].ToString());
                                     cmd.Parameters.AddWithValue("@details", fields[2].ToString());
+     
+
+                                    cmd.Parameters.AddWithValue("@year", timeStamp.Year);
+                                    cmd.Parameters.AddWithValue("@monthofyear", timeStamp.Month);
+                                    cmd.Parameters.AddWithValue("@dayofmonth", timeStamp.Day);
+                                    cmd.Parameters.AddWithValue("@hourofday", timeStamp.Hour);
+                                    cmd.Parameters.AddWithValue("@datecreated", DateTime.Now);
+
+                                    if (userTeams != null)
+                                    {
+                                        cmd.Parameters.AddWithValue("@cluster", userTeams.Cluster);
+                                        cmd.Parameters.AddWithValue("@segment", userTeams.Segment);
+                                        cmd.Parameters.AddWithValue("@worktype", userTeams.WorkType);
+                                    }
+                                    else
+                                    {
+                                        cmd.Parameters.AddWithValue("@cluster", DBNull.Value);
+                                        cmd.Parameters.AddWithValue("@segment", DBNull.Value);
+                                        cmd.Parameters.AddWithValue("@worktype", DBNull.Value);
+                                    }
+
+                                    if(productionList.Select(g => g.Details.ToLower()).ToList().Any(fields[2].ToString().ToLower().Contains) && string.IsNullOrEmpty(fields[2].ToString()) == false)
+                                        cmd.Parameters.AddWithValue("@activitytype", "PROD");
+                                    else if (fields[2].ToString().ToLower()=="idle")
+                                        cmd.Parameters.AddWithValue("@activitytype", "IDLE");
+                                    else 
+                                        cmd.Parameters.AddWithValue("@activitytype", "NON_PROD");
+
                                     cmd.ExecuteNonQuery();
                                 }
                             }
